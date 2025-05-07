@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MilindS\\source\\repos\\Battle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|c:\\users\\milinds\\source\\repos\\battle\\battle\\tests\\gamecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|solutionrelative:battle\\tests\\gamecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|c:\\users\\milinds\\source\\repos\\battle\\battle\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|solutionrelative:battle\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|c:\\users\\milinds\\source\\repos\\battle\\battle\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|solutionrelative:battle\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|c:\\users\\milinds\\source\\repos\\battle\\battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|solutionrelative:battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|c:\\users\\milinds\\source\\repos\\battle\\battle\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95FCF5BD-75D7-4738-A0BC-A48C88F2E395}|Battle\\Battle.csproj|solutionrelative:battle\\services\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Tests\\GameControllerTests.cs",
+              "RelativeDocumentMoniker": "Battle\\Tests\\GameControllerTests.cs",
+              "ToolTip": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Tests\\GameControllerTests.cs",
+              "RelativeToolTip": "Battle\\Tests\\GameControllerTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:47:54.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Services\\IGameService.cs",
+              "RelativeDocumentMoniker": "Battle\\Services\\IGameService.cs",
+              "ToolTip": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Services\\IGameService.cs",
+              "RelativeToolTip": "Battle\\Services\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:30:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Battle\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Services\\GameService.cs",
+              "RelativeToolTip": "Battle\\Services\\GameService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:30:13.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Battle\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Battle\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:25:17.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Program.cs",
+              "RelativeDocumentMoniker": "Battle\\Program.cs",
+              "ToolTip": "C:\\Users\\MilindS\\source\\repos\\Battle\\Battle\\Program.cs",
+              "RelativeToolTip": "Battle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T08:22:22.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
